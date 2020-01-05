@@ -17,5 +17,7 @@ He usado el comando make dist para crear un ejecutable en la carpeta ../dist/usr
 
 He usado el comando make targz para crear un archivo comprimido donde está el código necesario para hacer el ejecutable.
 
+'/home/damsp/GitHub/CarFusSig/Tema4/Make/3.png' 
 
+'/home/damsp/GitHub/CarFusSig/Tema4/Make/4.png' 
 
