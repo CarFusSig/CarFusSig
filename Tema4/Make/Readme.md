@@ -1,5 +1,7 @@
 # Entornos de desarrollo Tema 4
 
+[Repositorio](https://github.com/CarFusSig/CarFusSig/tree/master/Tema4/Make)
+
 En esta carpeta se crearan los ficheros que piden en los ejercicios del tema 4 de entornos de desarrollo del curso de DAM semipresencial.
 
 ## Ejercicio 1
@@ -17,7 +19,7 @@ He usado el comando make dist para crear un ejecutable en la carpeta ../dist/usr
 
 He usado el comando make targz para crear un archivo comprimido donde está el código necesario para hacer el ejecutable.
 
-'/home/damsp/GitHub/CarFusSig/Tema4/Make/3.png' 
+![Imagen1](1.png)
 
-'/home/damsp/GitHub/CarFusSig/Tema4/Make/4.png' 
+![Imagen2](2.png)
 
